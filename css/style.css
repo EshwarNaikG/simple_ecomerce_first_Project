@@ -19,6 +19,13 @@ body {
   color: white;
 }
 
+.nav-links a{
+  color: white;
+  text-decoration: none;
+  margin-left: 15px;
+  justify-content: space-between;
+}
+
 #search {
   padding: 8px;
   width: 200px;
