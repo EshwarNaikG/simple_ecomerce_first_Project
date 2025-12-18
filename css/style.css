@@ -19,6 +19,14 @@ body {
   color: white;
 }
 
+.cart1 a {
+  color: #f4f4f4;
+  text-decoration: none;
+  margin-left: 15px;  
+  justify-content: space-between;
+}
+
+
 .nav-links a{
   color: white;
   text-decoration: none;
